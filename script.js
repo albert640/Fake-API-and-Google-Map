@@ -11,9 +11,9 @@
 const personalInfo = {
     id: 11, // Keep as 11 (API has 10 users)
     firstname: "Albert",      // ← CHANGE THIS to your first name
-    lastname: "Venegas",        // ← CHANGE THIS to your last name
-    username: "Venegas23", // ← CHANGE THIS to your username
-    email: "albert.venegas@msuzs.edu.ph", // ← CHANGE THIS to your email
+    lastname: "Viñegas",        // ← CHANGE THIS to your last name
+    username: "albert42", // ← CHANGE THIS to your username
+    email: "albert.vinegas@nmsc.edu.ph", // ← CHANGE THIS to your email
     address: {
         zipcode: "7009",    // ← CHANGE THIS to your zipcode
         geo: {
